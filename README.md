@@ -76,3 +76,4 @@ import styles from './app.scss'
 ```
 
 
+**To test open index.html in a browser.**
